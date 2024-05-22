@@ -25,7 +25,7 @@ import AddProduct from "./pages/AddProduct";
 import { useSelector } from "react-redux";
 import Products from "../../components/Products";
 import { productDataList } from "../../utils/products";
-import IndKartSpecial from "./pages/IndKartSpecial";
+import IndKartSpecial from "./pages/ShopcartSpecial";
 import ShowCustomers from "./pages/ShowCustomers";
 import SellerProfile from "./pages/SellerProfile";
 
